@@ -1,0 +1,94 @@
+{
+	"id": "bfb7c8b3-925e-410c-89f8-518359222291",
+	"name": "Trello",
+	"values": [
+		{
+			"key": "key",
+			"value": "671945a71636faa1492460ade9694ed8",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "625b77b2157288bb3bdcbdf1ae4dcc8d2e01b4f06ff4d4912cc658d407e1d4da",
+			"enabled": true
+		},
+		{
+			"key": "BoardName",
+			"value": "Aida",
+			"enabled": true
+		},
+		{
+			"key": "CreatorID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "OrganizationID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ListNameWork",
+			"value": "Work",
+			"enabled": true
+		},
+		{
+			"key": "ListNameSchool",
+			"value": "School",
+			"enabled": true
+		},
+		{
+			"key": "memberType",
+			"value": "normal",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "moyedo4130@0ranges.com",
+			"enabled": true
+		},
+		{
+			"key": "BoardID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ListID1",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ListID2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "cardID1",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "cardName1",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "cardName2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "idMemberCreator",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "MemberID",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-06-15T11:26:20.701Z",
+	"_postman_exported_using": "Postman/8.6.1"
+}
