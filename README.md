@@ -8,3 +8,4 @@
 6. Once installation is complete run your collection (be careful to run the collection from the correct folder) 
 7. Include your env file (that you have previously exported) $ newman run "CollectionName" -e "EnvName"
 
+One env file contains board, list and card name, other one is empty allowing you to enter your values for the variables
